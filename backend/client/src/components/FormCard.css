@@ -1,0 +1,37 @@
+.stroke {
+  position: absolute;
+  height: 75%;
+  width: 75%;
+  top: 12.5%;
+  right: 12.5%;
+  bottom: 12.5%;
+  left: 12.5%;
+  border-radius: 50%;
+  background-color: var(--color-dimgray-100);
+}
+.stroke-icon,
+.stroke-icon1 {
+  position: absolute;
+  height: 6.25%;
+  width: 39.58%;
+  top: 46.88%;
+  right: 30.21%;
+  bottom: 46.88%;
+  left: 30.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.stroke-icon1 {
+  height: 39.58%;
+  width: 6.25%;
+  top: 30.21%;
+  right: 46.88%;
+  bottom: 30.21%;
+  left: 46.87%;
+}
+.plus-circle {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}

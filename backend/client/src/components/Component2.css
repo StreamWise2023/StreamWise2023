@@ -1,0 +1,23 @@
+.div20 {
+  position: relative;
+  font-weight: 500;
+}
+.component-2 {
+  position: absolute;
+  top: 14px;
+  left: 17px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-dodgerblue);
+  width: 73px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--base-2-size);
+  color: var(--color-white);
+  font-family: var(--inter);
+}

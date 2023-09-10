@@ -1,0 +1,19 @@
+.button1 {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 24px;
+  font-weight: 600;
+}
+.styleghost-themeoff-state {
+  border-radius: var(--br-xs);
+  border: 2px solid var(--neutral-05-100);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-5xl);
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--base-1-semibold-size);
+  color: var(--neutral-01-100);
+  font-family: var(--inter);
+}

@@ -1,0 +1,117 @@
+.image-9-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 345px;
+  height: 195px;
+  object-fit: cover;
+}
+.frame-child2 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 34px;
+  height: 16px;
+}
+.div18,
+.rectangle-group {
+  position: absolute;
+  width: 40px;
+  height: 24px;
+}
+.div18 {
+  top: 0;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+}
+.rectangle-group {
+  top: 161px;
+  left: 300px;
+}
+.image-9-parent {
+  position: relative;
+  width: 345px;
+  height: 195px;
+}
+.rainbowsix-siege {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 291px;
+  flex-shrink: 0;
+}
+.frame-child3 {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 4px;
+  height: 4px;
+}
+.ellipse-container {
+  height: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-10xs);
+}
+.text1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-10xl);
+  font-size: var(--base-1-semibold-size);
+}
+.frame-child6 {
+  position: relative;
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+.div19,
+.impulse1 {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 24px;
+  font-weight: 500;
+}
+.div19 {
+  margin-top: -8px;
+}
+.ellipse-parent1,
+.frame-parent4,
+.impulse-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ellipse-parent1,
+.frame-parent4 {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-3xs);
+  color: var(--neutral-03-100);
+}
+.frame-parent4 {
+  position: absolute;
+  top: 6px;
+  left: 7px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-6xs);
+  text-align: left;
+  font-size: var(--caption-1-semibold-size);
+  color: var(--color-white);
+  font-family: var(--inter);
+}

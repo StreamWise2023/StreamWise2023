@@ -1,0 +1,20 @@
+.customer-1-1-icon {
+  position: absolute;
+  height: 196.95%;
+  width: 196.88%;
+  top: 0;
+  right: -96.87%;
+  bottom: -96.95%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.avatar07 {
+  border-radius: 30px;
+  background-color: var(--secondary-04);
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
